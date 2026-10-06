@@ -83,7 +83,7 @@ After processing the dataset, the dashboard displays the main pipeline metrics.
 
 The dashboard allows users to inspect the generated cleaned dataset and quarantined records directly.
 
-![Output Inspection](docs/screenshots/dashboard-output.png)
+![Output Inspection]
 
 The cleaned output contains standardized and deduplicated records, while quarantined records are kept separately for review and auditing.
 
